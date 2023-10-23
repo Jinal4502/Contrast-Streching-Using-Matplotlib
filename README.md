@@ -1,1 +1,0 @@
-# Contrast-Streching-Using-Matplotlib
